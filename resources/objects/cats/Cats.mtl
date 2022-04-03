@@ -1,0 +1,15 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 22.06.2013 18:44:59
+
+newmtl wire_030030030
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.1176 0.1176 0.1176
+	Kd 0.1176 0.1176 0.1176
+	Ks 0.3500 0.3500 0.3500
+map_Kd diffuse.jpg
+map_Bump normal.jpg
+map_Ks specular.jpg

@@ -1,0 +1,3 @@
+-Projekat kursa Racunarska grafika MATF
+-Zadatak igrice: pronaci i slikati sve toteme zivotinja
+-Pritisnuti dugme 'B' za biranje aproksimacije osvetljenja

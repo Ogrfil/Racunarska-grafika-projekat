@@ -1,0 +1,15 @@
+# Blender MTL File: 'Ceramic-frog_low-poly.blend'
+# Material Count: 1
+
+newmtl Ceramic-frog_low-poly
+Ns 0.000000
+Ka 0.118000 0.118000 0.118000
+Kd 0.800000 0.800000 0.800000
+Ks 0.227091 0.227091 0.227091
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd diffuse.png
+map_Bump normal.png
+map_Ks specular1.png
