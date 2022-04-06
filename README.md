@@ -1,4 +1,5 @@
 -Projekat kursa Racunarska grafika MATF<br>
 -Zadatak igrice: pronaci i slikati sve toteme zivotinja<br>
 -Pritisnuti dugme 'B' za biranje aproksimacije osvetljenja<br>
+-Skybox, SSAO<br>
 -Link ka Youtube videu: https://www.youtube.com/watch?v=pzxQQjLErvw
